@@ -1,17 +1,14 @@
-.conteiner {
-    background-color: black;
-display: flex;
-flex-direction: row;
-flex-wrap: wrap;
-align-items: center;
-justify-content:space-evenly;
-height: 10000px;
-
+h1{
+    font-size: x-large;
+    color: black;
+    text-align: center;
+   font-style: italic;
+}
+.img{
+    height: 100px;
 }
 
-
-.item{
-    background-color:aqua;
-    color: aqua;
-    
+header{
+    background-color: blanchedalmond;
+    height: ;
 }
