@@ -1,0 +1,17 @@
+.conteiner {
+    background-color: black;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+justify-content:space-evenly;
+height: 10000px;
+
+}
+
+
+.item{
+    background-color:aqua;
+    color: aqua;
+    
+}
